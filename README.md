@@ -1,2 +1,2 @@
-#Netflix clone, primeiro projeto utilizando reactjs
+Netflix clone, primeiro projeto utilizando reactjs
 
