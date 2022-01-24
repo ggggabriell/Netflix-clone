@@ -63,7 +63,7 @@ export default ()=>{
       <footer>
         Creditos: Bonieky Lacerda | youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ<br/>
         Direitos de imagem para Netflix<br/>
-        Dados pegos do site Themoviedb.org
+        Dados pegos do site Themoviedb.org ||
 
       </footer>
           
